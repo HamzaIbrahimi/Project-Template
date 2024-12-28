@@ -11,8 +11,6 @@
 
 body {
     min-height: 100vh;
-    background-color: gold;
-    font-family: var(--font-root);
     font-size: var(--base_font_size);
     display: flex;
     flex-direction: column;
